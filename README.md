@@ -1,1 +1,0 @@
-# qlogicae_study
