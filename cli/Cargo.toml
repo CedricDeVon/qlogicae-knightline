@@ -1,0 +1,26 @@
+[package]
+name = "knightline"
+version = "0.0.1"
+edition = "2024"
+authors = ["Vaughn Cedric L. Araneta"]
+description = "A Chess Console Application"
+license = "MIT"
+repository = "https://github.com/CedricDeVon/qlogicae-knightline"
+homepage = "https://github.com/CedricDeVon/qlogicae-knightline"
+documentation = "https://github.com/CedricDeVon/qlogicae-knightline"
+readme = "README.md"
+keywords = ["qlogicae", "knightline"]
+categories = ["development-tools"]
+include = [
+    "project/**",
+    "src/**",
+    "Cargo.toml",
+    "Cargo.lock",
+    "README.md",
+    "LICENSE",
+]
+
+[lib]
+path = "src/lib.rs"
+
+[dependencies]
