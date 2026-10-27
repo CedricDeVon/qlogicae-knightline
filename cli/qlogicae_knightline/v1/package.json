@@ -1,0 +1,17 @@
+{
+  "name": "qlogicae-knightline",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {},
+  "keywords": [
+    "qlogicae",
+    "knightline"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "ink": "^8.0.0"
+  }
+}
